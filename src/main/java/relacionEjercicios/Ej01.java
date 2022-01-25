@@ -3,6 +3,7 @@ package relacionEjercicios;
 import java.util.Random;
 
 public class Ej01 {
+    Scanner teclado = new Scanner(System.In);
 
     public static void main(String[] args) {
         int resultado=0;
